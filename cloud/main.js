@@ -8,6 +8,6 @@
  * Trivial example of pulling in a shared config file.
  */
 function getConfig(params) {
-  console.log('in getConfig with ts:' + Date.now());
+  $fh.log('in getConfig with ts:' + Date.now());
   return config;
 };
