@@ -9,5 +9,7 @@
  */
 function getConfig(params) {
   $fh.log('in getConfig with ts:' + Date.now());
-  return config;
+  return {
+  	data: config
+  };
 };
