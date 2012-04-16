@@ -1,7 +1,7 @@
 /* main.js
  * All calls here are publicly exposed as REST API endpoints.
  * - all parameters must be passed in a single JSON paramater.
- * - anyything returned from these calls will be sent as a JSON response to the client
+ * - anything returned from these calls will be sent as a JSON response to the client
 */
 
 /* 'getConfig' server side REST API method.
