@@ -4,7 +4,7 @@ var config = {
       '    THIS MONTHS HOT OFFER ',
       '10% off Topups for May 2012 Only',
       'Click through the other tabs for more information and tips.',
-      'Check out <a href="http://docs.feedhenry.com/wiki/App_Anatomy" target="_blank">this link</a> for full documentation on using packages.'
+      'Check out <a href="http://docs.feedhenry.com/wiki/App_Anatomy" target="_blank">this link</a> for full details.'
     ],
     tab2: [
       'The "default" package contains the core of the app. It is represented by the directory /client/default.',
