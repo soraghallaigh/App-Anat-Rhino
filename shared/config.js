@@ -1,8 +1,8 @@
 var config = {
   tabData: {
     tab1: [
-      '    THIS MONTHS HOT OFFER ',
-      '10% off Topups for May 2012 Only',
+      '    MAY - SPECIAL OFFER',
+      '10% off ALL Topups with discount code',
       'Click through the other tabs for more information and tips.',
       'Check out <a href="http://docs.feedhenry.com/wiki/App_Anatomy" target="_blank">this link</a> for full details.'
     ],
